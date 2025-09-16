@@ -5,15 +5,21 @@
 
 ## Description:
 This web app helps users quickly analyze product reviews or text and classify them into three categories:
+
 **Positive**: The text shows that the product is good, liked, or recommended. Example: “This phone has an amazing battery life!”
+
 **Negative**: The text shows that the product is bad, disliked, or has problems. Example: “The headphones stopped working after a week.”
+
 **Neutral**: The text doesn’t show a clear opinion, or it’s just a general statement. Example: “The product comes in black and white colors.”
 
 Simply enter the text, and the app instantly shows the sentiment behind it, making it easy to understand how people feel about a product.
 
 ## Key Features:
+
 **Fast and Accurate**: Analyze reviews instantly.
+
 **User-Friendly**: Simple interface anyone can use.
+
 **Interactive Demo**: Test your own text to see live results.
 
 
